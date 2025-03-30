@@ -1,0 +1,697 @@
+[17:58:58] Robot R1 spawned at vertex 3
+[17:58:59] Robot R2 spawned at vertex 6
+[17:59:00] Task mode activated - select a robot then destination
+[17:59:01] Selected robot R1 for task assignment
+[17:59:02] Task assigned: R1 -> 12 via [3, 2, 1, 0, 13, 12]
+[17:59:03] Selected robot R2 for task assignment
+[17:59:04] Task assigned: R2 -> 9 via [6, 7, 1, 8, 9]
+[17:59:05] Movement system activated with collision prevention
+[17:59:05] R1 moved to 3
+[17:59:05] R2 moved to 6
+[17:59:05] R1 moved to 2
+[17:59:05] R2 moved to 7
+[17:59:06] R1 moved to 1
+[17:59:06] R2 waiting at 7
+[17:59:07] R1 moved to 0
+[17:59:07] R2 moved to 1
+[17:59:07] R1 moved to 13
+[17:59:07] R2 moved to 8
+[17:59:08] R1 moved to 12
+[17:59:08] R2 moved to 9
+[17:59:15] Spawn mode activated - click on vertices to spawn robots
+[17:59:16] Robot R3 spawned at vertex 11
+[17:59:18] Task mode activated - select a robot then destination
+[17:59:19] Selected robot R2 for task assignment
+[17:59:23] Task assigned: R2 -> 7 via [9, 8, 1, 7]
+[17:59:23] R2 waiting at 9
+[17:59:23] R2 waiting at 9
+[17:59:24] R2 waiting at 9
+[17:59:24] R2 waiting at 9
+[17:59:25] R2 waiting at 9
+[17:59:25] R2 waiting at 9
+[17:59:26] R2 waiting at 9
+[17:59:26] Selected robot R3 for task assignment
+[17:59:26] R2 waiting at 9
+[17:59:27] R2 waiting at 9
+[17:59:27] Task assigned: R3 -> 1 via [11, 10, 9, 8, 1]
+[17:59:27] R2 waiting at 9
+[17:59:27] R3 moved to 11
+[17:59:28] R2 waiting at 9
+[17:59:28] R3 moved to 10
+[17:59:28] R2 waiting at 9
+[17:59:28] R3 waiting at 10
+[17:59:29] R2 waiting at 9
+[17:59:29] R3 waiting at 10
+[17:59:29] R2 waiting at 9
+[17:59:29] R3 waiting at 10
+[17:59:30] R2 waiting at 9
+[17:59:30] R3 waiting at 10
+[17:59:30] R2 waiting at 9
+[17:59:30] R3 waiting at 10
+[17:59:31] R2 waiting at 9
+[17:59:31] R3 waiting at 10
+[17:59:31] R2 waiting at 9
+[17:59:31] R3 waiting at 10
+[17:59:31] Simulation completely reset
+[18:01:16] Robot R1 spawned at vertex 3
+[18:01:16] Robot R2 spawned at vertex 6
+[18:01:18] Task mode activated - select a robot then destination
+[18:01:18] Selected robot R1 for task assignment
+[18:01:19] Task assigned: R1 -> 12 via [3, 2, 1, 0, 13, 12]
+[18:01:20] Selected robot R2 for task assignment
+[18:01:21] Task assigned: R2 -> 9 via [6, 7, 1, 8, 9]
+[18:01:22] Movement system activated with collision prevention
+[18:01:22] R1 moved to 3
+[18:01:22] R2 moved to 6
+[18:01:23] R1 moved to 2
+[18:01:23] R2 moved to 7
+[18:01:23] R1 moved to 1
+[18:01:23] R2 waiting at 7
+[18:01:24] R1 moved to 0
+[18:01:24] R2 moved to 1
+[18:01:24] R1 moved to 13
+[18:01:24] R2 moved to 8
+[18:01:25] R1 moved to 12
+[18:01:25] R2 moved to 9
+[18:01:34] Selected robot R2 for task assignment
+[18:01:37] Error handling click: wrong # coordinates: expected at least 4, got 2
+[18:01:37] Task assigned: R2 -> 7 via [9, 8, 1, 7]
+[18:01:38] R2 waiting at 9
+[18:01:38] R2 waiting at 9
+[18:01:39] R2 waiting at 9
+[18:01:39] R2 waiting at 9
+[18:01:40] R2 waiting at 9
+[18:01:40] R2 waiting at 9
+[18:01:41] R2 waiting at 9
+[18:03:31] Robot R1 spawned at vertex 6
+[18:03:32] Robot R2 spawned at vertex 3
+[18:03:36] Robot R3 spawned at vertex 12
+[18:03:37] Task mode activated - select a robot then destination
+[18:03:38] Selected robot R2 for task assignment
+[18:03:39] Task assigned: R2 -> 9 via [3, 2, 1, 8, 9]
+[18:03:41] Selected robot R1 for task assignment
+[18:03:41] Task assigned: R1 -> 13 via [6, 7, 1, 0, 13]
+[18:03:47] Movement system activated with collision prevention
+[18:03:47] R1 moved to 6
+[18:03:47] Robot R3 is idle and ready for reassignment
+[18:03:47] R2 moved to 3
+[18:03:47] Robot R3 is idle and ready for reassignment
+[18:03:47] R1 moved to 7
+[18:03:47] Robot R3 is idle and ready for reassignment
+[18:03:47] R2 moved to 2
+[18:03:47] Robot R3 is idle and ready for reassignment
+[18:03:48] R1 moved to 1
+[18:03:48] Robot R3 is idle and ready for reassignment
+[18:03:48] R2 waiting at 2
+[18:03:48] Robot R3 is idle and ready for reassignment
+[18:03:48] R1 moved to 0
+[18:03:48] Robot R3 is idle and ready for reassignment
+[18:03:49] R2 moved to 1
+[18:03:49] Robot R3 is idle and ready for reassignment
+[18:03:49] R1 moved to 13
+[18:03:49] Robot R3 is idle and ready for reassignment
+[18:03:49] R2 moved to 8
+[18:03:49] Robot R3 is idle and ready for reassignment
+[18:03:50] R2 moved to 9
+[18:03:50] Robot R3 is idle and ready for reassignment
+[18:04:01] Selected robot R3 for task assignment
+[18:04:02] Task assigned: R3 -> 11 via [12, 11]
+[18:04:02] R3 moved to 12
+[18:04:03] R3 moved to 11
+[18:04:05] Selected robot R1 for task assignment
+[18:04:06] Task assigned: R1 -> 1 via [13, 0, 1]
+[18:04:06] R1 waiting at 13
+[18:04:06] R1 waiting at 13
+[18:04:07] R1 waiting at 13
+[18:04:07] R1 waiting at 13
+[18:04:08] R1 waiting at 13
+[18:04:08] R1 waiting at 13
+[18:11:16] Robot R1 spawned at vertex 3
+[18:11:18] Robot R2 spawned at vertex 4
+[18:11:19] Robot R3 spawned at vertex 6
+[18:11:21] Task mode activated - select a robot then destination
+[18:11:23] Selected robot R1 for task assignment
+[18:11:25] Task assigned: R1 -> 13 via [3, 2, 1, 0, 13]
+[18:11:26] Selected robot R3 for task assignment
+[18:11:27] Task assigned: R3 -> 9 via [6, 7, 1, 8, 9]
+[18:11:28] Selected robot R2 for task assignment
+[18:11:29] Task assigned: R2 -> 7 via [4, 5, 6, 7]
+[18:11:32] Movement system activated with collision prevention
+[18:11:32] R1 moved to 3
+[18:11:32] R2 moved to 4
+[18:11:32] R3 moved to 6
+[18:11:32] R1 moved to 2
+[18:11:32] R2 moved to 5
+[18:11:32] R3 moved to 7
+[18:11:33] R1 moved to 1
+[18:11:33] R2 moved to 6
+[18:12:17] Robot R1 spawned at vertex 3
+[18:12:18] Robot R2 spawned at vertex 5
+[18:12:19] Robot R3 spawned at vertex 6
+[18:12:21] Task mode activated - select a robot then destination
+[18:12:22] Selected robot R1 for task assignment
+[18:12:23] Task assigned: R1 -> 13 via [3, 2, 1, 0, 13]
+[18:12:24] Selected robot R3 for task assignment
+[18:12:25] Task assigned: R3 -> 9 via [6, 7, 1, 8, 9]
+[18:12:26] Selected robot R2 for task assignment
+[18:12:27] Task assigned: R2 -> 7 via [5, 6, 7]
+[18:12:30] Movement system activated with collision prevention
+[18:12:30] R1 moved to 3
+[18:12:30] R2 moved to 5
+[18:12:30] R3 moved to 6
+[18:12:30] R1 moved to 2
+[18:12:30] R2 moved to 6
+[18:12:30] R3 moved to 7
+[18:12:31] R1 moved to 1
+[18:15:46] Robot R1 spawned at vertex 3
+[18:15:47] Robot R2 spawned at vertex 5
+[18:15:48] Robot R3 spawned at vertex 6
+[18:15:49] Task mode activated - select a robot then destination
+[18:15:50] Selected robot R1 for task assignment
+[18:15:51] Task assigned: R1 -> 13 via [3, 2, 1, 0, 13]
+[18:15:53] Selected robot R3 for task assignment
+[18:15:54] Task assigned: R3 -> 9 via [6, 7, 1, 8, 9]
+[18:15:55] Selected robot R2 for task assignment
+[18:15:56] Task assigned: R2 -> 7 via [5, 6, 7]
+[18:15:59] Movement system activated with collision prevention
+[18:15:59] R1 moved to 3
+[18:15:59] R2 moved to 5
+[18:15:59] R3 moved to 6
+[18:15:59] R1 moved to 2
+[18:15:59] R2 moved to 6
+[18:15:59] R3 moved to 7
+[18:16:00] R1 moved to 1
+[18:16:49] Robot R1 spawned at vertex 3
+[18:16:50] Robot R2 spawned at vertex 5
+[18:16:51] Robot R3 spawned at vertex 6
+[18:16:53] Task mode activated - select a robot then destination
+[18:16:53] Selected robot R1 for task assignment
+[18:16:54] Task assigned: R1 -> 13 via [3, 2, 1, 0, 13]
+[18:16:55] Selected robot R3 for task assignment
+[18:16:57] Task assigned: R3 -> 9 via [6, 7, 1, 8, 9]
+[18:16:58] Selected robot R2 for task assignment
+[18:16:58] Task assigned: R2 -> 7 via [5, 6, 7]
+[18:16:59] Movement system activated with collision prevention
+[18:16:59] R1 moved to 3
+[18:16:59] R2 moved to 5
+[18:16:59] R3 moved to 6
+[18:17:00] R1 moved to 2
+[18:17:00] R2 moved to 6
+[18:17:00] R3 moved to 7
+[18:17:00] R1 moved to 1
+[18:21:27] Robot R1 spawned at vertex 3
+[18:21:28] Robot R2 spawned at vertex 4
+[18:21:30] Robot R3 spawned at vertex 6
+[18:21:31] Task mode activated - select a robot then destination
+[18:21:32] Selected robot R1 for task assignment
+[18:21:33] Task assigned: R1 -> 12 via [3, 2, 1, 0, 13, 12]
+[18:21:35] Selected robot R3 for task assignment
+[18:21:37] Task assigned: R3 -> 9 via [6, 7, 1, 8, 9]
+[18:21:40] Selected robot R2 for task assignment
+[18:21:42] Task assigned: R2 -> 5 via [4, 5]
+[18:21:44] Movement system activated with collision prevention
+[18:21:44] R1 moved to 3
+[18:21:44] R2 moved to 4
+[18:21:44] R3 moved to 6
+[18:21:45] R1 moved to 2
+[18:21:45] R2 moved to 5
+[18:21:45] R3 moved to 7
+[18:21:45] R1 moved to 1
+[18:21:45] R3 waiting at 7
+[18:21:46] R1 moved to 0
+[18:21:46] R3 moved to 1
+[18:21:46] R1 moved to 13
+[18:21:46] R3 moved to 8
+[18:21:47] R1 moved to 12
+[18:21:47] R3 moved to 9
+[18:22:15] Selected robot R3 for task assignment
+[18:22:25] Task mode activated - select a robot then destination
+[18:22:26] Selected robot R3 for task assignment
+[18:22:27] Task assigned: R3 -> 13 via [9, 8, 1, 0, 13]
+[18:22:27] R3 waiting at 9
+[18:22:32] Selected robot R1 for task assignment
+[18:22:32] R3 waiting at 9
+[18:22:33] Task assigned: R1 -> 10 via [12, 11, 10]
+[18:22:33] R1 waiting at 12
+[18:22:33] R3 waiting at 9
+[18:22:33] R1 waiting at 12
+[18:22:33] R3 waiting at 9
+[18:22:34] R1 waiting at 12
+[18:22:34] R3 waiting at 9
+[18:22:35] R1 waiting at 12
+[18:22:35] R3 waiting at 9
+[18:22:35] R1 waiting at 12
+[18:22:35] R3 waiting at 9
+[18:22:36] R1 waiting at 12
+[18:22:36] R3 waiting at 9
+[18:22:36] R1 waiting at 12
+[18:22:36] R3 waiting at 9
+[18:22:37] R1 waiting at 12
+[18:22:37] R3 waiting at 9
+[18:22:37] R1 waiting at 12
+[18:22:37] R3 waiting at 9
+[18:22:38] R1 waiting at 12
+[18:22:38] R3 waiting at 9
+[18:22:38] R1 waiting at 12
+[18:22:38] R3 waiting at 9
+[18:22:39] R1 waiting at 12
+[18:22:39] R3 waiting at 9
+[18:22:39] Simulation completely reset
+[18:24:10] Robot R1 spawned at vertex 3
+[18:24:11] Robot R2 spawned at vertex 6
+[18:24:13] Robot R3 spawned at vertex 4
+[18:24:15] Task mode activated - select a robot then destination
+[18:24:16] Selected robot R1 for task assignment
+[18:24:17] Task assigned: R1 -> 13 via [3, 2, 1, 0, 13]
+[18:24:19] Selected robot R2 for task assignment
+[18:24:20] Task assigned: R2 -> 9 via [6, 7, 1, 8, 9]
+[18:24:21] Selected robot R3 for task assignment
+[18:24:22] Task assigned: R3 -> 7 via [4, 5, 6, 7]
+[18:24:24] Movement system activated with collision prevention
+[18:24:24] R1 moved to 3
+[18:24:24] R2 moved to 6
+[18:24:24] R3 moved to 4
+[18:24:24] R1 moved to 2
+[18:24:24] R2 moved to 7
+[18:24:25] R3 moved to 5
+[18:24:25] R1 moved to 1
+[18:24:25] R2 waiting at 7
+[18:24:25] R3 moved to 6
+[18:24:26] R1 moved to 0
+[18:24:26] R2 moved to 1
+[18:24:26] R3 moved to 7
+[18:24:26] R1 moved to 13
+[18:24:26] R2 moved to 8
+[18:24:27] R2 moved to 9
+[18:24:29] Selected robot R2 for task assignment
+[18:24:31] Task assigned: R2 -> 12 via [9, 10, 11, 12]
+[18:24:31] R2 waiting at 9
+[18:24:32] Selected robot R1 for task assignment
+[18:24:32] R2 waiting at 9
+[18:24:33] Task assigned: R1 -> 8 via [13, 0, 1, 8]
+[18:24:34] R1 waiting at 13
+[18:24:34] R2 waiting at 9
+[18:24:34] R1 waiting at 13
+[18:24:34] R2 waiting at 9
+[18:24:35] R1 waiting at 13
+[18:24:35] R2 waiting at 9
+[18:24:35] R1 waiting at 13
+[18:24:35] R2 waiting at 9
+[18:24:36] R1 waiting at 13
+[18:24:36] R2 waiting at 9
+[18:24:36] R1 waiting at 13
+[18:24:36] R2 waiting at 9
+[18:24:37] R1 waiting at 13
+[18:24:37] R2 waiting at 9
+[18:25:52] Robot R1 spawned at vertex 3
+[18:25:53] Robot R2 spawned at vertex 5
+[18:25:54] Robot R3 spawned at vertex 6
+[18:25:55] Task mode activated - select a robot then destination
+[18:25:56] Selected robot R1 for task assignment
+[18:25:57] Task assigned: R1 -> 12 via [3, 2, 1, 0, 13, 12]
+[18:25:58] Selected robot R3 for task assignment
+[18:25:59] Task assigned: R3 -> 9 via [6, 7, 1, 8, 9]
+[18:26:00] Selected robot R2 for task assignment
+[18:26:01] Task assigned: R2 -> 13 via [5, 6, 7, 1, 0, 13]
+[18:26:03] Movement system activated with collision prevention
+[18:26:03] R1 moved to 3
+[18:26:03] R2 moved to 5
+[18:26:03] R3 moved to 6
+[18:26:03] R1 moved to 2
+[18:26:03] R2 moved to 6
+[18:26:03] R3 moved to 7
+[18:26:04] R1 moved to 1
+[18:26:04] R2 waiting at 6
+[18:26:04] R3 waiting at 7
+[18:26:05] R1 moved to 0
+[18:26:05] R2 waiting at 6
+[18:26:05] R3 moved to 1
+[18:26:05] R1 moved to 13
+[18:26:05] R2 moved to 7
+[18:26:05] R3 moved to 8
+[18:26:06] R1 moved to 12
+[18:26:06] R2 waiting at 7
+[18:26:06] R3 moved to 9
+[18:26:06] R2 waiting at 7
+[18:26:13] Selected robot R3 for task assignment
+[18:26:13] R2 waiting at 7
+[18:26:14] Task assigned: R3 -> 11 via [9, 10, 11]
+[18:26:14] R2 waiting at 7
+[18:26:14] R3 waiting at 9
+[18:26:14] R2 waiting at 7
+[18:26:14] R3 waiting at 9
+[18:26:15] R2 waiting at 7
+[18:26:15] R3 waiting at 9
+[18:26:15] R2 waiting at 7
+[18:26:15] R3 waiting at 9
+[18:26:16] R2 waiting at 7
+[18:26:16] R3 waiting at 9
+[18:26:16] R2 waiting at 7
+[18:26:16] R3 waiting at 9
+[18:26:17] R2 waiting at 7
+[18:26:17] R3 waiting at 9
+[18:26:17] R2 waiting at 7
+[18:26:17] R3 waiting at 9
+[18:26:18] R2 waiting at 7
+[18:26:18] R3 waiting at 9
+[18:26:19] R2 waiting at 7
+[18:26:19] R3 waiting at 9
+[18:26:19] R2 waiting at 7
+[18:26:19] R3 waiting at 9
+[18:27:59] Robot R1 spawned at vertex 3
+[18:28:00] Task mode activated - select a robot then destination
+[18:28:01] Selected robot R1 for task assignment
+[18:28:02] Task assigned: R1 -> 13 via [3, 2, 1, 0, 13]
+[18:28:03] Movement system activated with collision prevention
+[18:28:03] R1 moved to 3
+[18:28:04] R1 moved to 2
+[18:28:04] R1 moved to 1
+[18:28:05] R1 moved to 0
+[18:28:05] Spawn mode activated - click on vertices to spawn robots
+[18:28:05] R1 moved to 13
+[18:28:06] Robot R2 spawned at vertex 6
+[18:28:08] Robot R3 spawned at vertex 9
+[18:28:09] Task mode activated - select a robot then destination
+[18:28:10] Selected robot R2 for task assignment
+[18:28:11] Task assigned: R2 -> 8 via [6, 7, 1, 8]
+[18:28:11] R2 moved to 6
+[18:28:12] R2 moved to 7
+[18:28:12] Selected robot R3 for task assignment
+[18:28:12] R2 moved to 1
+[18:28:13] R2 moved to 8
+[18:28:13] Task assigned: R3 -> 12 via [9, 10, 11, 12]
+[18:28:13] R3 moved to 9
+[18:28:14] R3 moved to 10
+[18:28:14] R3 moved to 11
+[18:28:15] Selected robot R1 for task assignment
+[18:28:15] R3 moved to 12
+[18:28:16] Task assigned: R1 -> 3 via [13, 0, 1, 2, 3]
+[18:28:16] R1 waiting at 13
+[18:28:27] Selected robot R2 for task assignment
+[18:28:27] R1 waiting at 13
+[18:28:27] Task assigned: R2 -> 9 via [8, 9]
+[18:28:28] R1 waiting at 13
+[18:28:28] R2 waiting at 8
+[18:28:28] R1 waiting at 13
+[18:28:28] R2 waiting at 8
+[18:28:29] R1 waiting at 13
+[18:28:29] R2 waiting at 8
+[18:28:29] R1 waiting at 13
+[18:28:29] R2 waiting at 8
+[18:28:30] R1 waiting at 13
+[18:28:30] R2 waiting at 8
+[18:28:30] R1 waiting at 13
+[18:28:30] R2 waiting at 8
+[18:28:31] R1 waiting at 13
+[18:28:31] R2 waiting at 8
+[18:28:31] R1 waiting at 13
+[18:28:31] R2 waiting at 8
+[18:28:32] R1 waiting at 13
+[18:28:32] R2 waiting at 8
+[18:28:33] R1 waiting at 13
+[18:28:33] R2 waiting at 8
+[18:28:33] R1 waiting at 13
+[18:28:33] R2 waiting at 8
+[18:28:33] Simulation completely reset
+[18:28:34] Robot R1 spawned at vertex 3
+[18:28:35] Robot R2 spawned at vertex 5
+[18:28:36] Robot R3 spawned at vertex 6
+[18:28:37] Task mode activated - select a robot then destination
+[18:28:39] Selected robot R1 for task assignment
+[18:28:40] Task assigned: R1 -> 13 via [3, 2, 1, 0, 13]
+[18:28:40] R1 moved to 3
+[18:28:41] R1 moved to 2
+[18:28:41] Selected robot R3 for task assignment
+[18:28:41] R1 moved to 1
+[18:28:42] R1 moved to 0
+[18:28:42] R1 waiting at 0
+[18:28:42] Task assigned: R3 -> 9 via [6, 7, 1, 8, 9]
+[18:28:43] R1 waiting at 0
+[18:28:43] R3 moved to 6
+[18:28:43] R1 waiting at 0
+[18:28:43] R3 moved to 7
+[18:28:43] Selected robot R2 for task assignment
+[18:28:44] R1 waiting at 0
+[18:28:44] R3 moved to 1
+[18:28:44] R1 waiting at 0
+[18:28:44] R3 waiting at 1
+[18:28:45] R1 waiting at 0
+[18:28:45] R3 waiting at 1
+[18:28:45] R1 waiting at 0
+[18:28:45] R3 waiting at 1
+[18:28:46] R1 waiting at 0
+[18:28:46] R3 waiting at 1
+[18:28:46] R1 waiting at 0
+[18:28:46] R3 waiting at 1
+[18:28:47] R1 waiting at 0
+[18:28:47] R3 waiting at 1
+[18:28:47] R1 waiting at 0
+[18:28:47] R3 waiting at 1
+[18:28:48] R1 waiting at 0
+[18:28:48] R3 waiting at 1
+[18:28:48] R1 waiting at 0
+[18:28:48] R3 waiting at 1
+[18:28:49] R1 waiting at 0
+[18:28:49] R3 waiting at 1
+[18:28:50] R1 waiting at 0
+[18:28:50] R3 waiting at 1
+[18:28:50] R1 waiting at 0
+[18:28:50] R3 waiting at 1
+[18:28:51] R1 waiting at 0
+[18:28:51] R3 waiting at 1
+[18:28:51] R1 waiting at 0
+[18:28:51] R3 waiting at 1
+[18:28:52] R1 waiting at 0
+[18:28:52] R3 waiting at 1
+[18:28:52] R1 waiting at 0
+[18:28:52] R3 waiting at 1
+[18:28:53] R1 waiting at 0
+[18:28:53] R3 waiting at 1
+[18:28:53] R1 waiting at 0
+[18:28:53] R3 waiting at 1
+[18:28:54] R1 waiting at 0
+[18:28:54] R3 waiting at 1
+[18:28:54] R1 waiting at 0
+[18:28:54] R3 waiting at 1
+[18:28:55] R1 waiting at 0
+[18:28:55] R3 waiting at 1
+[18:28:55] R1 waiting at 0
+[18:28:55] R3 waiting at 1
+[18:33:13] Robot R1 spawned at vertex 3
+[18:33:14] Robot R2 spawned at vertex 5
+[18:33:15] Robot R3 spawned at vertex 6
+[18:33:17] Movement system activated with collision prevention
+[18:33:20] Failed to spawn robot R4
+[18:33:24] Task mode activated - select a robot then destination
+[18:33:25] Selected robot R1 for task assignment
+[18:33:25] Task assigned: R1 -> 13 via [3, 2, 1, 0, 13]
+[18:33:29] Selected robot R3 for task assignment
+[18:33:30] Task assigned: R3 -> 9 via [6, 7, 1, 8, 9]
+[18:33:31] Selected robot R2 for task assignment
+[18:33:32] Task assigned: R2 -> 12 via [5, 6, 7, 1, 0, 13, 12]
+[18:33:33] Movement system activated with collision prevention
+[18:34:30] Robot R1 spawned at vertex 3
+[18:34:32] Robot R2 spawned at vertex 6
+[18:34:33] Task mode activated - select a robot then destination
+[18:34:34] Selected robot R1 for task assignment
+[18:34:35] Task assigned: R1 -> 12 via [3, 2, 1, 0, 13, 12]
+[18:34:36] Selected robot R2 for task assignment
+[18:34:37] Task assigned: R2 -> 9 via [6, 7, 1, 8, 9]
+[18:34:38] Movement system activated with collision prevention
+[18:36:29] Robot R1 spawned at vertex 3
+[18:36:30] Robot R2 spawned at vertex 6
+[18:36:31] Task mode activated - select a robot then destination
+[18:36:32] Selected robot R1 for task assignment
+[18:36:33] Task assigned: R1 -> 13 via [3, 2, 1, 0, 13]
+[18:36:34] Selected robot R2 for task assignment
+[18:36:35] Task assigned: R2 -> 9 via [6, 7, 1, 8, 9]
+[18:36:36] Movement system activated with collision prevention
+[18:36:36] R1 waiting at 3
+[18:36:36] R2 waiting at 6
+[18:38:38] Robot R1 spawned at vertex 3
+[18:38:39] Robot R2 spawned at vertex 6
+[18:38:40] Task mode activated - select a robot then destination
+[18:38:41] Selected robot R1 for task assignment
+[18:38:41] Task assigned: R1 -> 13 via [3, 2, 1, 0, 13]
+[18:38:42] Selected robot R2 for task assignment
+[18:38:44] Task assigned: R2 -> 9 via [6, 7, 1, 8, 9]
+[18:38:45] Movement system activated with collision prevention
+[18:38:45] R1 moved to 3
+[18:38:45] R2 moved to 6
+[18:38:45] R1 moved to 2
+[18:38:46] R2 moved to 7
+[18:38:46] R1 moved to 1
+[18:38:46] R2 waiting at 7
+[18:38:47] R1 moved to 0
+[18:38:47] R2 moved to 1
+[18:38:47] R1 moved to 13
+[18:38:47] R2 moved to 8
+[18:38:48] R2 moved to 9
+[18:38:50] Selected robot R2 for task assignment
+[18:38:51] Task assigned: R2 -> 12 via [9, 10, 11, 12]
+[18:38:52] R2 waiting at 9
+[18:38:53] Selected robot R1 for task assignment
+[18:38:53] R2 completed task at 9
+[18:38:54] Task assigned: R1 -> 1 via [13, 0, 1]
+[18:38:54] R1 waiting at 13
+[18:38:54] R1 completed task at 13
+[18:39:04] Selected robot R2 for task assignment
+[18:39:06] Task assigned: R2 -> 11 via [9, 10, 11]
+[18:39:06] R2 waiting at 9
+[18:39:06] R2 completed task at 9
+[18:39:11] Selected robot R1 for task assignment
+[18:39:12] Task assigned: R1 -> 1 via [13, 0, 1]
+[18:39:12] R1 waiting at 13
+[18:39:12] R1 completed task at 13
+[18:53:03] Robot R1 spawned at vertex 3
+[18:53:03] Error handling click: 'Robot' object has no attribute 'status'
+[18:53:04] Robot R2 spawned at vertex 6
+[18:53:04] Error handling click: 'Robot' object has no attribute 'status'
+[18:53:05] Task mode activated - select a robot then destination
+[19:00:31] Robot R1 spawned at vertex 3
+[19:00:32] Robot R2 spawned at vertex 6
+[19:01:37] Robot R1 spawned at vertex 3
+[19:01:38] Robot R2 spawned at vertex 6
+[19:01:40] Robot R3 spawned at vertex 8
+[19:01:42] Task mode activated - select a robot then destination
+[19:01:42] Selected robot R1 for task assignment
+[19:01:43] Task assigned: R1 -> 13 via [3, 2, 1, 0, 13]
+[19:01:44] Selected robot R2 for task assignment
+[19:01:45] Task assigned: R2 -> 9 via [6, 7, 1, 8, 9]
+[19:01:45] Selected robot R3 for task assignment
+[19:01:46] Task assigned: R3 -> 12 via [8, 1, 0, 13, 12]
+[19:01:48] Movement system activated with collision prevention
+[19:27:11] Robot R1 spawned at vertex 3
+[19:27:12] Robot R2 spawned at vertex 6
+[19:27:14] Robot R3 spawned at vertex 9
+[19:27:15] Task mode activated - select a robot then destination
+[19:27:15] Selected robot R1 for task assignment
+[19:27:16] Task assigned: R1 -> 13 via [3, 2, 1, 0, 13]
+[19:27:17] Selected robot R2 for task assignment
+[19:27:18] Task assigned: R2 -> 8 via [6, 7, 1, 8]
+[19:27:19] Selected robot R3 for task assignment
+[19:27:20] Task assigned: R3 -> 12 via [9, 10, 11, 12]
+[19:27:21] Movement system activated with collision prevention
+[19:27:21] R1 moved to 3
+[19:27:21] R2 moved to 6
+[19:27:21] R3 moved to 9
+[19:27:21] R1 moved to 2
+[19:27:21] R2 moved to 7
+[19:27:21] R3 moved to 10
+[19:27:22] R1 moved to 1
+[19:27:22] R2 moved to 1
+[19:27:22] R3 moved to 11
+[19:27:23] R1 moved to 0
+[19:27:23] R2 completed task at 8
+[19:27:23] R3 completed task at 12
+[19:27:23] R1 completed task at 13
+[19:33:15] Robot R1 spawned at vertex 3
+[19:33:16] Robot R2 spawned at vertex 5
+[19:33:17] Robot R3 spawned at vertex 6
+[19:33:18] Task mode activated - select a robot then destination
+[19:33:19] Selected robot R1 for task assignment
+[19:33:19] Task assigned: R1 -> 13 via [3, 2, 1, 0, 13]
+[19:33:20] Selected robot R3 for task assignment
+[19:33:21] Task assigned: R3 -> 9 via [6, 7, 1, 8, 9]
+[19:33:23] Selected robot R2 for task assignment
+[19:33:26] Task assigned: R2 -> 7 via [5, 6, 7]
+[19:33:30] Movement system activated with collision prevention
+[19:33:32] Movement system activated with collision prevention
+[19:35:33] Error handling click: Robot.__init__() missing 1 required positional argument: 'fleet_manager'
+[19:36:09] Error handling click: Robot.__init__() missing 1 required positional argument: 'fleet_manager'
+[19:36:45] Robot R1 spawned at vertex 3
+[19:36:47] Robot R2 spawned at vertex 6
+[19:36:48] Movement system activated with collision prevention
+[19:36:49] Task mode activated - select a robot then destination
+[19:36:50] Selected robot R1 for task assignment
+[19:36:51] Task assigned: R1 -> 13 via [3, 2, 1, 0, 13]
+[19:36:56] Selected robot R2 for task assignment
+[19:36:56] Error handling click: wrong # coordinates: expected at least 4, got 2
+[19:36:59] Task assigned: R2 -> 9 via [6, 7, 1, 8, 9]
+[19:37:00] Movement system activated with collision prevention
+[19:37:24] Robot R1 spawned at vertex 3
+[19:37:24] Robot R2 spawned at vertex 6
+[19:37:26] Task mode activated - select a robot then destination
+[19:37:27] Selected robot R1 for task assignment
+[19:37:28] Task assigned: R1 -> 13 via [3, 2, 1, 0, 13]
+[19:37:29] Selected robot R2 for task assignment
+[19:37:30] Task assigned: R2 -> 9 via [6, 7, 1, 8, 9]
+[19:37:31] Movement system activated with collision prevention
+[19:37:31] R1 moved to 3
+[19:37:31] R2 moved to 6
+[19:37:32] R1 moved to 2
+[19:37:32] R2 moved to 7
+[19:37:32] R1 moved to 1
+[19:37:32] R2 moved to 1
+[19:37:33] R1 moved to 0
+[19:37:33] R2 moved to 8
+[19:37:33] R1 completed task at 13
+[19:37:33] R2 completed task at 9
+[19:37:36] Selected robot R2 for task assignment
+[19:37:37] Task assigned: R2 -> 7 via [9, 8, 1, 7]
+[19:37:37] R2 moved to 9
+[19:37:38] R2 moved to 8
+[19:37:38] R2 moved to 1
+[19:37:39] Selected robot R1 for task assignment
+[19:37:39] R2 completed task at 7
+[19:37:39] Task assigned: R1 -> 9 via [13, 0, 1, 8, 9]
+[19:37:39] R1 moved to 13
+[19:37:40] R1 moved to 0
+[19:37:40] R1 moved to 1
+[19:37:41] R1 moved to 8
+[19:37:41] R1 completed task at 9
+[20:13:41] Spawn mode activated - click on vertices to spawn robots
+[20:13:42] Robot R1 spawned at vertex 3
+[20:13:43] Robot R2 spawned at vertex 6
+[20:13:46] Task mode activated - select a robot then destination
+[20:13:48] Selected robot R1 for task assignment
+[20:13:49] Task assigned: R1 -> 12 via [3, 2, 1, 0, 13, 12]
+[20:13:50] Selected robot R2 for task assignment
+[20:13:51] Task assigned: R2 -> 9 via [6, 7, 1, 8, 9]
+[20:13:55] Movement system activated with collision prevention
+[20:13:55] R1 moved to 3
+[20:13:55] R2 moved to 6
+[20:13:55] R1 moved to 2
+[20:13:55] R2 moved to 7
+[20:13:56] R1 moved to 1
+[20:13:56] R2 moved to 1
+[20:13:56] R1 moved to 0
+[20:13:56] R2 moved to 8
+[20:13:57] R1 moved to 13
+[20:13:57] R2 completed task at 9
+[20:13:57] R1 completed task at 12
+[20:14:00] Selected robot R2 for task assignment
+[20:14:01] Task assigned: R2 -> 11 via [9, 10, 11]
+[20:14:01] R2 moved to 9
+[20:14:02] R2 moved to 10
+[20:14:02] Selected robot R1 for task assignment
+[20:14:02] R2 completed task at 11
+[20:14:03] Task assigned: R1 -> 9 via [12, 11, 10, 9]
+[20:14:03] R1 moved to 12
+[20:14:04] R1 moved to 11
+[20:14:04] R1 moved to 10
+[20:14:05] R1 completed task at 9
+[20:14:07] Spawn mode activated - click on vertices to spawn robots
+[20:14:08] Robot R3 spawned at vertex 3
+[20:14:09] Task mode activated - select a robot then destination
+[20:14:10] Selected robot R3 for task assignment
+[20:14:11] Task assigned: R3 -> 10 via [3, 2, 1, 8, 9, 10]
+[20:14:11] R3 moved to 3
+[20:14:12] R3 moved to 2
+[20:14:12] Selected robot R1 for task assignment
+[20:14:12] R3 moved to 1
+[20:14:13] R3 moved to 8
+[20:14:13] Task assigned: R1 -> 12 via [9, 10, 11, 12]
+[20:14:13] R1 moved to 9
+[20:14:13] R3 moved to 9
+[20:14:14] R1 moved to 10
+[20:14:14] R3 completed task at 10
+[20:14:14] R1 moved to 11
+[20:14:15] Selected robot R1 for task assignment
+[20:14:15] R1 completed task at 12
+[20:14:16] Task assigned: R1 -> 2 via [12, 13, 0, 1, 2]
+[20:14:16] R1 moved to 12
+[20:14:16] R1 moved to 13
+[20:14:17] R1 moved to 0
+[20:14:17] R1 moved to 1
+[20:14:18] R1 completed task at 2
